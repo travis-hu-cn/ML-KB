@@ -2,8 +2,5 @@
 Machine Learning Knowledge Base
 
 ## Neural Network
-* [Neural Network For Beginner Part1](https://www.codeproject.com/Articles/16419/AI-Neural-Network-for-beginners-Part-of) - Describe Single Layer Perceptron Network.
-* [Neural Network For Beginner Part2](https://www.codeproject.com/Articles/16508/AI-Neural-Network-for-beginners-Part-of) - Reading...
-* [Neural Network For Beginner Part3](https://www.codeproject.com/Articles/16732/AI-Neural-Network-for-Beginners-Part-of) - Reading...
 
-* [A Quick Introduction to NN](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/) - Reading...
+* [A Quick Introduction to NN](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/) - 
