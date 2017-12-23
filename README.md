@@ -13,9 +13,13 @@ Machine Learning Knowledge Base
 
 ### not read yet, but should be good material.
 * [10 dl architecures must know](https://www.analyticsvidhya.com/blog/2017/08/10-advanced-deep-learning-architectures-data-scientists/) - Introduce "Alex net", "VGG net", "Google Net" etc.
-
-
-
+* []() 
+	* It seems likely that future architectures will feature very few to no pooling layers.
+	* It should be noted that the conventional paradigm of a linear list of layers has recently been challenged, in Google’s Inception architectures and also in current (state of the art) Residual Networks from Microsoft Research Asia. 
+	* If you’re feeling a bit of a fatigue in thinking about the architectural decisions, you’ll be pleased to know that in 90% or more of applications you should not have to worry about these. I like to summarize this point as “don’t be a hero”: Instead of rolling your own architecture for a problem, you should look at whatever architecture currently works best on ImageNet, download a pretrained model and finetune it on your data. You should rarely ever have to train a ConvNet from scratch or design one from scratch.
+	* **some common rules of thumb for sizing the architectures**
+	* **Computational Considerations**
+	
 ## Gradient Decent
 * [Model Optimization](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/model_optimization.html) - good material about gradient decent.
 
