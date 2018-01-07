@@ -23,4 +23,9 @@ Machine Learning Knowledge Base
 ## Gradient Decent
 * [Model Optimization](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/model_optimization.html) - good material about gradient decent.
 
-* [Feature Scaling](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/feature_scaling.html)
+* [Feature Scaling](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/feature_scaling.htmld)
+
+## TensorFlow
+* [Models](https://github.com/tensorflow/models)
+* [Keras](https://github.com/keras-team/keras/tree/master/examples)
+
